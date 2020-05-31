@@ -1,0 +1,26 @@
+ 
+.text_question{
+    background-color: aquamarine;
+}
+.radio_button{
+    background-color: blueviolet;
+}
+.single_selection{
+    background-color: rgb(86, 226, 43);
+}
+.image{
+    background-color: rgb(208, 226, 43);
+}
+
+
+.header {
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.4PQa6uaHcLHierPxk1xZbgHaHa%26pid%3DApi&f=1);
+    display: block;
+    width: 1000px;
+    height: 1000px;
+  }
+.question{
+    font-size: medium;
+    padding: 30px;
+    border-radius: 10px;
+}
